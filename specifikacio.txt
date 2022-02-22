@@ -1,0 +1,7 @@
+Lego Printer
+Falon mozgó LEGO MINDSTORMS EV3 alapfelszerelés motorjait és brickjét használó robot. A motorok 2 csörlőt mozgatnak, amin mozogni tud maga a nyomtató, a program által elkészített koordináták alapján.
+Egy külső képet konvertáló program kell ehhez, ami képes egy képet X és Y koordinátákká alakítani, amit a robot használni tud majd.
+A robotot íróeszközzel kell ellátni és azt rögzíteni (befőttes gumival vagy kitámasztással).
+Szerkesztő programként a LEGO MINDSTORMS Education EV3-at fogjuk használni, mivel széles körben ismertebb és a használata is könnyebb.
+
+
