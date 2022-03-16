@@ -6,6 +6,8 @@ A nyomtatónk egy falon mozgó LEGO MINDSTORMS EV3 alapfelszerelés motorjait é
 
 
 Egy külső képet konvertáló program szükséges ehhez, ami képes egy képet X és Y koordinátákká alakítani, amit a robot használni tud majd.
+
 A robotot íróeszközzel kell ellátni és azt rögzíteni (befőttes gumival vagy kitámasztással).
+
 Szerkesztő programként a LEGO MINDSTORMS Education EV3-at fogjuk használni, mivel széles körben ismertebb és a használata is könnyebb.
 
