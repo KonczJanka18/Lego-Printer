@@ -3,4 +3,6 @@
 ------------
 Robot kód készítő/szerkesztő program:
 
-👨🏻‍💻LEGO MINDSTORMS Edu EV3👨🏻‍💻
+👨🏻‍💻LEGO MINDSTORMS Education EV3 Student Edition👨🏻‍💻
+
+F.L.R.L.ev3
