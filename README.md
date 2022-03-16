@@ -1,7 +1,7 @@
 ------------
 # Lego-Printer
 ------------
-
+afsgdfg
 A nyomtatónk egy falon mozgó LEGO MINDSTORMS EV3 alapfelszerelés motorjait és brickjét használó robot. A motorok 2 madzaggal mozgatott csörlőt alkalmaznak , amivel balra-jobbra (X koordináták alapján) és fel-le (Y koordináták alapján) tud mozogni maga a nyomtató a lap fölött. A filctollat felemeli ha az adott koordinátán nem kell rajzolnia és így készíti el a képet a külső program által kiszámított koordináták segítségével.
 
 
